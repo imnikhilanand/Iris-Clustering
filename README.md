@@ -14,6 +14,7 @@ Few scatter plots
 <img src="analysis4.png" width="50%">
 <br><br>
 Few Box Plots
+<br><br>
 <img src="analysis5.png" width="50%">
 <br><br>
 <img src="analysis6.png" width="50%">
