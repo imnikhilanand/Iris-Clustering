@@ -21,6 +21,7 @@ Few Box Plots
 <img src="analysis7.png" width="50%">
 <br><br>
 <img src="analysis8.png" width="50%">
+<br><br>
 Few Violin Plots
 <br><br>
 <img src="analysis9.png" width="50%">
